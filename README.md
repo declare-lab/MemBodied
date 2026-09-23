@@ -14,7 +14,7 @@ Keeping the complete observation history can recover this information, but its s
 
 <p align="center">
   <a href="assets/architecture.pdf">
-    <img src="assets/architecture.pdf" alt="MemBodied architecture: recurrent associative memory and initial-scene anchor" width="95%">
+    <img src="assets/architecture.png" alt="MemBodied architecture: recurrent associative memory and initial-scene anchor" width="95%">
   </a>
 </p>
 
