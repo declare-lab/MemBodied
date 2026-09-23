@@ -1,0 +1,14 @@
+# RMBench fills the simulator fields below at launch.
+policy_name: null
+task_name: null
+task_config: null
+ckpt_setting: null
+seed: null
+instruction_type: unseen
+
+backend: pi0
+config_name: membodied
+checkpoint_dir: null  # or set MEMBODIED_CHECKPOINT_DIR
+asset_id: null
+action_chunk_size: 50
+

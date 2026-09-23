@@ -1,0 +1,7 @@
+.venv
+checkpoints
+data
+.git
+.pytest_cache
+__pycache__
+wandb

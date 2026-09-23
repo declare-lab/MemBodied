@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Training and evaluation outputs
+checkpoints/
+outputs/
+logs/
+wandb/
+policy_records/
+*.log
+*.ckpt
+*.safetensors
+*.npz
+
+# Data and generated media
+RMBench/data/*
+!RMBench/data/_download.py
+datasets/
+videos/
+plots/
+*.mp4
+*.avi
+*.gif
+*.ipynb
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local implementation notes and scratch files
+reports/
+assets/README.md
+
